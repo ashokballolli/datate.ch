@@ -3,7 +3,7 @@ title: "Contact"
 permalink: "/contact.html"
 ---
   
-<form action="https://formsubmit.co/datatekwebsite@gmail.com" method="POST" />
+<form action="https://formsubmit.co/275f5db76d4cb0886128857e6dfffcdf" method="POST" />
 <p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
 <div class="form-group row">
 <div class="col-md-6">
